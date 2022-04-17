@@ -1,1 +1,1 @@
-These themes are designed for terminal use by green-weak colorblind users.
+A place for green-weak colorblind themes.
