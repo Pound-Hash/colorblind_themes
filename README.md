@@ -8,6 +8,8 @@
 ---
 
 ## Screenshots
+These shots are from Kakoune, whose theme isn't finished yet. For example, yellow is defined in my theme, but it doesn't show in these shots.
+
 ![c](./screenshots/c.png)
 ![css](./screenshots/css.png)
 ![html](./screenshots/html.png)
