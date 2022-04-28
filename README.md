@@ -1,18 +1,57 @@
-# Files
- `base16.txt` - A text file containing the basic colors I'm able to use as a green-weak colorblind user. One additional color may be added if we change the black or white to a gray. These may be adapted for your own apps.
-- `kitty/deuters_delight.conf` - The base16 colors adapted for Kitty terminal.
-- `kakoune/deuters_delight.kak` - Kakoune's default theme adapted to my base16 scheme.
-- `ls_colors.txt` - The LS_COLORS variable adapted to my base16 scheme.
-- `less_colors.txt` - The LESS variable adapted to my base16 scheme.
+# Base 16 colors
 
----
+    #: black
+    color0 #1A1A1A
+    color8 #1A1A1A
+
+    #: red
+    color1 #D19594
+    color9 #D19594
+
+    #: green
+    color2  #70C270
+    color10 #70C270
+
+    #: blue
+    color4  #BEBEF4
+    color12 #BEBEF4
+
+    #: yellow
+    color3  #D9D9A6
+    color11 #D9D9A6
+
+    #: magenta
+    color5  #BEBEF4
+    color13 #BEBEF4
+
+    #: cyan
+    color6  #70C270
+    color14 #70C270
+
+    #: white
+    color7  #D9D9D9
+    color15 #D9D9D9
+
+###### N.B.
+`black` is currently defined as a gray. It could
+instead be defined as a black. Similarly, `white` is currently
+defined as a white, though it could also be a gray.
+
+## Configurations
+- [`kitty/deuters_delight.conf`](./kakoune/deuters_delight.kak)
+- [`kakoune/deuters_delight.kak`](./kakoune/deuters_delight.kak)
+- [`less_variable.txt`](./less_variable.txt)
+- [`ls_colors_variable.txt`](./ls_colors_variable.txt)
+
 
 ## Screenshots
-These shots are from Kakoune, whose theme isn't finished yet. For example, yellow is defined in my theme, but it doesn't show in these shots.
+These shots are from Kakoune, whose theme isn't finished yet. For
+example, yellow is defined in my theme, but it doesn't show in
+the shots.
 
-![c](./screenshots/c.png)
-![css](./screenshots/css.png)
-![html](./screenshots/html.png)
-![javascript](./screenshots/javascript.png)
-![python](./screenshots/python.png)
+<img src="./screenshots/c.png" alt="" width="500" height="500">
+<img src="./screenshots/css.png" alt="" width="500" height="500">
+<img src="./screenshots/html.png" alt="" width="500" height="500">
+<img src="./screenshots/javascript.png" alt="" width="500" height="500">
+<img src="./screenshots/python.png" alt="" width="500" height="500">
 
