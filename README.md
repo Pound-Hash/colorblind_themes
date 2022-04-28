@@ -32,7 +32,7 @@
     color7  #D9D9D9
     color15 #D9D9D9
 
-#### N.B.
+### Note:
 `black` is currently defined as a gray. It could instead be  
 defined as a black. Similarly, `white` is currently defined as  
 a white, though it could also be a gray.
