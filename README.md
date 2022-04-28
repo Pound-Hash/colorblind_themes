@@ -1,42 +1,42 @@
 # Base 16 colors
 
-##################
+##############
 
-    #: black
-    color0 #1A1A1A
-    color8 #1A1A1A
+#: black
+color0 #1A1A1A
+color8 #1A1A1A
 
-    #: red
-    color1 #D19594
-    color9 #D19594
+#: red
+color1 #D19594
+color9 #D19594
 
-    #: green
-    color2  #70C270
-    color10 #70C270
+#: green
+color2  #70C270
+color10 #70C270
 
-    #: blue
-    color4  #BEBEF4
-    color12 #BEBEF4
+#: blue
+color4  #BEBEF4
+color12 #BEBEF4
 
-    #: yellow
-    color3  #D9D9A6
-    color11 #D9D9A6
+#: yellow
+color3  #D9D9A6
+color11 #D9D9A6
 
-    #: magenta
-    color5  #BEBEF4
-    color13 #BEBEF4
+#: magenta
+color5  #BEBEF4
+color13 #BEBEF4
 
-    #: cyan
-    color6  #70C270
-    color14 #70C270
+#: cyan
+color6  #70C270
+color14 #70C270
 
-    #: white
-    color7  #D9D9D9
-    color15 #D9D9D9
+#: white
+color7  #D9D9D9
+color15 #D9D9D9
 
-###################
+###############
 
-##### N.B.
+#### N.B.
 `black` is currently defined as a gray. It could instead be  
 defined as a black. Similarly, `white` is currently defined as  
 a white, though it could also be a gray.
