@@ -37,9 +37,9 @@
 ###################
 
 ##### N.B.
-`black` is currently defined as a gray. It could  
-instead be defined as a black. Similarly, `white` is currently  
-defined as a white, though it could also be a gray.
+`black` is currently defined as a gray. It could instead be  
+defined as a black. Similarly, `white` is currently defined as  
+a white, though it could also be a gray.
 
 ## Configurations
 - [kitty/deuters_delight.conf](./kakoune/deuters_delight.kak)
