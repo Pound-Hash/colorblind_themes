@@ -1,5 +1,7 @@
 # Base 16 colors
 
+##################
+
     #: black
     color0 #1A1A1A
     color8 #1A1A1A
@@ -32,9 +34,11 @@
     color7  #D9D9D9
     color15 #D9D9D9
 
+###################
+
 ##### N.B.
-`black` is currently defined as a gray. It could
-instead be defined as a black. Similarly, `white` is currently
+`black` is currently defined as a gray. It could  
+instead be defined as a black. Similarly, `white` is currently  
 defined as a white, though it could also be a gray.
 
 ## Configurations
@@ -43,15 +47,17 @@ defined as a white, though it could also be a gray.
 - [less_variable.txt](./less_variable.txt)
 - [ls_colors_variable.txt](./ls_colors_variable.txt)
 
-
 ## Screenshots
-These shots are from Kakoune, whose theme isn't finished yet. For
-example, yellow is defined in my theme, but it doesn't show in
+These shots are from Kakoune, whose theme isn't finished yet. For  
+example, yellow is defined in my theme, but it doesn't show in  
 the shots.
 
-<img src="./screenshots/c.png" alt="" width="500" height="500">
-<img src="./screenshots/css.png" alt="" width="500" height="500">
-<img src="./screenshots/html.png" alt="" width="500" height="500">
-<img src="./screenshots/javascript.png" alt="" width="500" height="500">
-<img src="./screenshots/python.png" alt="" width="500" height="500">
+<figure>
+<img src="./screenshots/c.png" alt="">
+<figcaption>C<figcaption>
+<figure>
+<img src="./screenshots/css.png" alt="">
+<img src="./screenshots/html.png" alt="">
+<img src="./screenshots/javascript.png" alt="">
+<img src="./screenshots/python.png" alt="">
 
