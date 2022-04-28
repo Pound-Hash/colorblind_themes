@@ -52,12 +52,9 @@ These shots are from Kakoune, whose theme isn't finished yet. For
 example, yellow is defined in my theme, but it doesn't show in  
 the shots.
 
-<figure>
-<img src="./screenshots/c.png" alt="">
-<figcaption>C<figcaption>
-<figure>
-<img src="./screenshots/css.png" alt="">
-<img src="./screenshots/html.png" alt="">
-<img src="./screenshots/javascript.png" alt="">
-<img src="./screenshots/python.png" alt="">
+<img src="./screenshots/c.png" alt="c">
+<img src="./screenshots/css.png" alt="css">
+<img src="./screenshots/html.png" alt="html">
+<img src="./screenshots/javascript.png" alt="javascript">
+<img src="./screenshots/python.png" alt="python">
 
