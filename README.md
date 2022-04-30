@@ -33,32 +33,36 @@
     color15 #D9D9D9
 
 ### Note
-`black` is currently defined as a gray. It could instead be  
-defined as a black. Similarly, `white` is currently defined as  
+`black` is currently defined as a gray. It could instead be
+defined as a black. Similarly, `white` is currently defined as
 a white, though it could also be a gray.
 
 ## Configurations
 - [kitty/deuters_delight.conf](./kakoune/deuters_delight.kak)
 - [kakoune/deuters_delight.kak](./kakoune/deuters_delight.kak)
 - [less_variable.txt](./less_variable.txt)
-- [ls_colors_variable.txt](./ls_colors_variable.txt)
+- [ls_colors_variable.txt](./ls_colors_variable.txt) 
 
 ## Screenshots
-These shots are from Kakoune, whose theme isn't finished yet. For  
-example, yellow is defined in my theme, but it doesn't show in  
+These shots are from Kakoune, whose theme isn't finished yet. For
+example, yellow is defined in my theme, but it doesn't show in
 the shots.
 
-![c](./screenshots/c.png)
-![css](./screenshots/css.png)
-![html](./screenshots/html.png)
-![javascript](./screenshots/javascript.png)
-![python](./screenshots/python.png)
+![c](./screenshots/c.png)  
+![css](./screenshots/css.png)  
+![html](./screenshots/html.png)  
+![javascript](./screenshots/javascript.png)  
+![python](./screenshots/python.png)  
 
 ---
 
-These shots are from the Z shell prompt [powerlevel10k](https://github.com/romkatv/powerlevel10k) with the [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) hook installed.
+These shots are from the Z shell prompt
+[powerlevel10k](https://github.com/romkatv/powerlevel10k)
+with the
+[zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+hook installed.
 
-![echo correctly](./screenshots/echo_correct.png)
-![echo wrongly](./screenshots/echo_wrong.png)
+![echo correctly](./screenshots/echo_correct.png)  
+![echo wrongly](./screenshots/echo_wrong.png)  
 ![command substitution](./screenshots/command_sub.png)
 
