@@ -48,9 +48,17 @@ These shots are from Kakoune, whose theme isn't finished yet. For
 example, yellow is defined in my theme, but it doesn't show in  
 the shots.
 
-<img src="./screenshots/c.png" alt="c">
-<img src="./screenshots/css.png" alt="css">
-<img src="./screenshots/html.png" alt="html">
-<img src="./screenshots/javascript.png" alt="javascript">
-<img src="./screenshots/python.png" alt="python">
+![c](./screenshots/c.png)
+![css](./screenshots/css.png)
+![html](./screenshots/html.png)
+![javascript](./screenshots/javascript.png)
+![python](./screenshots/python.png)
+
+---
+
+These shots are from the Z shell prompt [powerlevel10k](https://github.com/romkatv/powerlevel10k) with the [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) hook installed.
+
+![echo correctly](./screenshots/echo_correct.png)
+![echo wrongly](./screenshots/echo_wrong.png)
+![command substitution](./screenshots/command_sub.png)
 
