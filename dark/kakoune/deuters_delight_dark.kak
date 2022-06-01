@@ -1,5 +1,3 @@
-# Kakoune default color scheme
-
 # For Code
 face global value red
 face global type yellow
