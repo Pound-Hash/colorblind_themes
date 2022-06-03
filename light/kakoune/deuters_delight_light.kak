@@ -1,39 +1,39 @@
 # For Code
-face global value default
-face global type default
-face global variable default
-face global module default
-face global function default
-face global string default
-face global keyword default
-face global operator default
-face global attribute default
-face global comment default
-face global documentation default
-face global meta default
-face global builtin default
+face global value black
+face global type black
+face global variable black
+face global module black
+face global function black
+face global string black
+face global keyword black
+face global operator black
+face global attribute black
+face global comment black
+face global documentation black
+face global meta black
+face global builtin black
 
 # For markup
-face global title default
-face global header default
-face global mono default
-face global block default
-face global link default
-face global bullet default
-face global list default
+face global title black
+face global header black
+face global mono black
+face global block black
+face global link black
+face global bullet black
+face global list black
 
 # Built-in
 face global Default default,default
-face global PrimarySelection rgb:ffffff,rgb:000000
-face global SecondarySelection white,black
-face global PrimaryCursor white,black
-face global SecondaryCursor white,black
-face global PrimaryCursorEol white,black
-face global SecondaryCursorEol white,black
-face global LineNumbers black,white
-face global LineNumberCursor black,white
-face global MenuForeground black,white
-face global MenuBackground black,white
+face global PrimarySelection white,rgb:454554
+face global SecondarySelection white,rgb:454554
+face global PrimaryCursor white,rgb:B08D00
+face global SecondaryCursor white,rgb:6A6346
+face global PrimaryCursorEol white,rgb:AAAABB
+face global SecondaryCursorEol white,rgb:666680
+face global LineNumbers rgb:666666
+face global LineNumberCursor rgb:666666
+face global MenuForeground white,rgb:454554
+face global MenuBackground black,rgb:D9D9D9
 face global MenuInfo black,white
 face global Information black,white
 face global Error black,white
@@ -48,4 +48,3 @@ face global Prompt black,white
 face global MatchingChar black,white
 face global BufferPadding black,white
 face global Whitespace black,white
-
