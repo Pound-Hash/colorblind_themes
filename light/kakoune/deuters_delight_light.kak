@@ -29,22 +29,22 @@ face global SecondarySelection white,rgb:454554
 face global PrimaryCursor white,rgb:B08D00
 face global SecondaryCursor white,rgb:6A6346
 face global PrimaryCursorEol white,rgb:AAAABB
-face global SecondaryCursorEol white,rgb:666680
+face global SecondaryCursorEol white,rgb:71718E
 face global LineNumbers rgb:666666
 face global LineNumberCursor rgb:666666
 face global MenuForeground white,rgb:454554
-face global MenuBackground black,rgb:D9D9D9
-face global MenuInfo black,white
-face global Information black,white
-face global Error black,white
-face global DiagnosticError black,white
-face global DiagnosticWarning black,white
-face global StatusLine black,white
-face global StatusLineMode black,white
-face global StatusLineInfo black,white
-face global StatusLineValue black,white
+face global MenuBackground black,rgb:C7C7C7
+face global MenuInfo rgb:000066,rgb:C7C7C7
+face global Information black,rgb:E0E0E0
+face global Error blue
+face global DiagnosticError blue
+face global DiagnosticWarning blue
+face global StatusLine blue,white
+face global StatusLineMode blue,white
+face global StatusLineInfo blue,white
+face global StatusLineValue blue,white
 face global StatusCursor white,black
-face global Prompt black,white
-face global MatchingChar black,white
-face global BufferPadding black,white
-face global Whitespace black,white
+face global Prompt blue,white
+face global BufferPadding rgb:666666,white
+# face global MatchingChar default,default
+# face global Whitespace default,default
