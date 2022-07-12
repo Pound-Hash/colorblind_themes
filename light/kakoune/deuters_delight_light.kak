@@ -24,12 +24,12 @@ face global list black
 
 # Built-in
 face global Default default,default
-face global PrimarySelection white,rgb:454554
-face global SecondarySelection white,rgb:454554
-face global PrimaryCursor white,rgb:B08D00
-face global SecondaryCursor white,rgb:6A6346
-face global PrimaryCursorEol white,rgb:AAAABB
-face global SecondaryCursorEol white,rgb:71718E
+face global PrimarySelection white,rgb:363649
+face global SecondarySelection white,rgb:363649
+face global PrimaryCursor white,rgb:B7920F
+face global SecondaryCursor white,rgb:726B54
+face global PrimaryCursorEol white,rgb:B3AD98
+face global SecondaryCursorEol white,rgb:8D8DA5
 face global LineNumbers rgb:666666
 face global LineNumberCursor rgb:666666
 face global MenuForeground white,rgb:454554
