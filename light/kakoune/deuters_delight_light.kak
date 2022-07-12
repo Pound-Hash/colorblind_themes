@@ -39,12 +39,13 @@ face global Information black,rgb:E0E0E0
 face global Error blue
 face global DiagnosticError blue
 face global DiagnosticWarning blue
-face global StatusLine blue,white
+face global StatusLine rgb:800000,white
 face global StatusLineMode blue,white
-face global StatusLineInfo blue,white
-face global StatusLineValue blue,white
+face global StatusLineInfo rgb:800000,white
+face global StatusLineValue rgb:800000,white
 face global StatusCursor white,black
 face global Prompt blue,white
 face global BufferPadding rgb:666666,white
 # face global MatchingChar default,default
 # face global Whitespace default,default
+
