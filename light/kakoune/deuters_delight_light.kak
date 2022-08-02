@@ -33,19 +33,18 @@ face global SecondaryCursorEol white,rgb:8D8DA5
 face global LineNumbers rgb:666666
 face global LineNumberCursor rgb:666666
 face global MenuForeground white,rgb:454554
-face global MenuBackground black,rgb:C7C7C7
-face global MenuInfo rgb:000066,rgb:C7C7C7
-face global Information black,rgb:E0E0E0
+face global MenuBackground rgb:800000,rgb:e0e0e0
+face global MenuInfo black,rgb:e0e0e0
+face global Information black,rgb:e0e0e0
 face global Error blue
 face global DiagnosticError blue
 face global DiagnosticWarning blue
-face global StatusLine rgb:800000,white
+face global StatusLine black,white
 face global StatusLineMode blue,white
 face global StatusLineInfo rgb:800000,white
 face global StatusLineValue rgb:800000,white
 face global StatusCursor white,black
-face global Prompt blue,white
 face global BufferPadding rgb:666666,white
+face global Prompt black
 # face global MatchingChar default,default
 # face global Whitespace default,default
-

@@ -44,7 +44,7 @@ face global StatusLineMode blue
 face global StatusLineInfo red
 face global StatusLineValue red
 face global StatusCursor rgb:000000,rgb:d9d9d9
-face global Prompt blue
+face global Prompt black
 face global MatchingChar default
 face global BufferPadding rgb:8C8C8C
 face global Whitespace default,default

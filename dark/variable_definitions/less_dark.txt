@@ -1,0 +1,1 @@
+LESS='-R --use-color -Ddb$Du-$DPk$DSg'
