@@ -1,0 +1,6 @@
+--no-bold
+--color 16
+--color fg+:#fcfcfc,bg+:#363649,hl:blue,hl+:#fcfcfc
+--color info:red,prompt:-1,pointer:#363649,marker:#fcfcfc
+--color spinner:red
+
