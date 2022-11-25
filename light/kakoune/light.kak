@@ -1,16 +1,16 @@
 # For Code
 face global value black
 face global type black
-face global variable black
+face global variable blue
 face global module black
 face global function black
-face global string black
-face global keyword black
+face global string red
+face global keyword blue
 face global operator black
-face global attribute black
-face global comment black
+face global attribute blue
+face global comment red
 face global documentation black
-face global meta black
+face global meta red
 face global builtin black
 
 # For markup
