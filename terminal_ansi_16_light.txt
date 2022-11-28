@@ -1,0 +1,26 @@
+foreground=000000
+background=fafafa
+
+regular0=000000  # black
+regular1=800000  # red
+regular2=000000  # green
+regular3=000000  # yellow
+regular4=000099  # blue
+regular5=000000  # magenta
+regular6=000000  # cyan
+regular7=fafafa  # white
+
+bright0=000000   # black
+bright1=800000   # red
+bright2=000000   # green
+bright3=000000   # yellow
+bright4=000099   # blue
+bright5=000000   # magenta
+bright6=000000   # cyan
+bright7=fafafa   # white
+
+selection-foreground=fcfcfc
+selection-background=363649
+
+[cursor]
+color=fcfcfc 726b54
